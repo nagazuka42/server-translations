@@ -1,6 +1,6 @@
 ACCOUNT_INFO_BAD_ID: Identifiants incorrects.
-ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Warehouse is under maintenance.
-ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
+ACCOUNT_INFO_SERVICE_MAINTENANCE_MODE: Le dépôt est en cours de maintenance.
+ACCOUNT_INFO_WAREHOUSE_UNEXPECTED_ERROR: Une erreur innatendue s'est produite. Merci de réessayer plus tard.
 ACT4_CHANNEL_OFFLINE: Le canal Act4 est actuellement hors ligne.
 ACT4_CHATMESSAGE_PVP_ANGELS: anges
 ACT4_CHATMESSAGE_PVP_DEATH: Un gardien des {0} a tué {1}.
@@ -25,7 +25,7 @@ AMMO_LOADED_ARCHER: Flèches chargés !
 AMMO_LOADED_SWORDSMAN: Carreaux chargés !
 ARENA_CHATMESSAGE_PVP_ACTIVE: PvP mode is active.
 ARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène individuelle? ça te coûtera {0} pièces d'or.
-ARENA_SHOUTMESSAGE_PVP_KILL: '{0} has been killed by {1}'
+ARENA_SHOUTMESSAGE_PVP_KILL: '{0} a été vaincu par {1}'
 BANK_CHATMESSAGE_HAS_DEBIT_CARD_ALREADY: Tu possèdes déjà une carte de paiement dans ton équipement.
 BANK_DIALOG_ASK_DEPOSIT: Veux-tu déposer {0}000 pièces d'or sur ton compte ?
 BANK_DIALOG_ASK_WITHDRAW: Veux-tu retirer {0}000 pièces d'or sur ton compte ?
@@ -59,12 +59,12 @@ BUFF_CHATMESSAGE_UNDER_EFFECT: Tu es sous l'effet de {0}
 CELLON_SHOUTMESSAGE_FAIL: L'ajout d'option a échoué. Le cellon a disparu.
 CELLON_SHOUTMESSAGE_LEVEL_TOO_HIGH: Le niveau de Cellon est trop élévé pour cet accessoire.
 CELLON_SHOUTMESSAGE_OPTIONS_FULL: Les emplacements de l'accessoire sont pleins.
-CELLON_SHOUTMESSAGE_SUCCESS: Option ajouté.
+CELLON_SHOUTMESSAGE_SUCCESS: Option ajoutée.
 CHARACTER_CREATION_INFO_ALREADY_TAKEN: Ce nom est déjà utilisé.
-CHARACTER_CREATION_INFO_BANNED_CHARNAME: Your character name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
+CHARACTER_CREATION_INFO_BANNED_CHARNAME: Le nom de ton personnage contient le mot "{0}", qui est bannis. Si tu penses que c'est une erreur, ouvre un ticket sur le Support de notre serveur Discord.
 CHARACTER_CREATION_INFO_INVALID_CHARNAME: Caractère(s) invalide(s) dans ton nom.
-CHARACTER_DELETION_INFO_FAILED: Your character could not be deleted successfully. Please try again later.
-CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Your character could not be deleted successfully. Please try again later.
+CHARACTER_DELETION_INFO_FAILED: Ton personnage n'a pas pu être effacé. Essaye plus tard.
+CHARACTER_DELETION_INFO_UNABLE_TO_RETRIEVE_CHARACTER: Ton personnage n'a pas pu être effacé. Essaye plus tard.
 CLASS_NAME_ADVENTURER: Aventurier
 CLASS_NAME_ARCHER: Archer
 CLASS_NAME_MAGE: Mage
@@ -95,13 +95,13 @@ DROP_SHOUTMESSAGE_FULL: Il y a trop d'objets au sol pour pouvoir jeter ton objet
 FAIRYSTONES_DIALOG_INSERT: Veux tu insérer {0} dans {1} ?
 FAIRYSTONES_MESSAGE_INSERT_FAILED: L'insertion de la pierre de fée a échoué.
 FAIRYSTONES_MESSAGE_INSERT_SUCCESS: L'insertion de la pierre de fée a réussi !
-FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Tu ne peux pas insérer une pierre de fée dans un équipement héroique.
-FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: La niveau de cette pierre de fée est trop élévé pour cet objet.
+FAIRYSTONES_SHOUTMESSAGE_CANT_HEROIC: Tu ne peux pas insérer une pierre de fée dans un équipement héroïque.
+FAIRYSTONES_SHOUTMESSAGE_LEVEL_TOO_HIGH: Le niveau de cette pierre de fée est trop élévé pour cet objet.
 FAIRYSTONES_SHOUTMESSAGE_MAX_REACHED: Tu ne peux pas insérer davantage de pierres de fée dans cet objet.
 FAIRYSTONES_SHOUTMESSAGE_WRONG_ITEM_TYPE: Seuls les armes et les armures peuvent recevoir une pierre de fée.
-FAMILY_ACHIEVEMENT_UNLOCKED: 'Family achievement unlocked: {0}'
+FAMILY_ACHIEVEMENT_UNLOCKED: 'Succès de famille déverouillé: {0}'
 FAMILY_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0}({1}) s'est connecté(e)"
-FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Purchased family upgrade!
+FAMILY_CHATMESSAGE_UPGRADE_BOUGHT: Amélioration de famille achetée!
 FAMILY_DIALOG_ALREADY_HAS_THAT_AUTHORITY: Ce membre a déjà ce rôle.
 FAMILY_DIALOG_ASK_DISMISS_FAMILY: Souhaites-tu vraiment dissoudre ta famille ? Ce sera définitif.
 FAMILY_DIALOG_ASK_JOIN_CONFIRMATION: Veux-tu vraiment rejoindre cette famille ?
@@ -113,7 +113,7 @@ FAMILY_DIALOG_HEAD_CANNOT_LEAVE_FAMILY: La tête de famille ne peux pas quitter 
 FAMILY_INFO_ALREADY_IN_FAMILY: Tu es déjà une famille.
 FAMILY_INFO_ASK_FAMILY_LEAVE: Es-tu sûr de vouloir quitter la famille ?
 FAMILY_INFO_CANT_GIVE_SAME_AUTHORITY: Tu ne peux pas attribuer ton propre rôle.
-FAMILY_INFO_CREATION_BANNED_NAME: Your family name contains the word "{0}", which is banned. If you think it is an error, feel free to open a ticket on our support Discord server.
+FAMILY_INFO_CREATION_BANNED_NAME: Le nom de votre famille contient le mot "{0}", qui est bannis. Si tu penses que c'est une erreur, ouvre un ticket sur le Support de notre serveur Discord.
 FAMILY_INFO_CREATION_GROUP_REQUIRED: Tu dois être dans une groupe pour créer une famille.
 FAMILY_INFO_CREATION_SOMEONE_ALREADY_IN_FAMILY: Un joueur dans ton groupe est déjà dans une famille ou en a quitté une récemment.
 FAMILY_INFO_DEPUTIES_LIMIT_REACHED: Nombre maximal d'assistants atteint.
@@ -133,24 +133,24 @@ FAMILY_INFO_NOT_IN_FAMILY: Tu n'es pas dans une famille.
 FAMILY_INFO_SERVICE_MAINTENANCE_MODE: Family service is currently under maintenance.
 FAMILY_INFO_TARGET_NEEDS_TO_BE_DEPUTY: Ce joueur doit être assistant.
 FAMILY_INFO_USED_DAILY_MESSAGE: La phrase du jour a déjà été rédigée aujourd'hui.
-FAMILY_INFO_WAREHOUSE_INVALID_ITEM: You can't add this item to the family warehouse!
-FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: You don't have enought permission to do that.
-FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: An unexpected error occurred. Please try again later.
-FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: You need the previous upgrade to purchase that.
+FAMILY_INFO_WAREHOUSE_INVALID_ITEM: Tu ne peux pas ajouter cet objet dans l'entrepôt de famille !
+FAMILY_INFO_WAREHOUSE_NOT_ENOUGH_PERMISSION: Tu n'as pas la permission de faire ça.
+FAMILY_INFO_WAREHOUSE_UNEXPECTED_ERROR: Une erreur innatendue s'est produite. Merci d'essayer plus tard.
+FAMILY_MESSAGE_UPGRADE_NO_PREVIOUS: Tu as besoin des améliorations précédentes pour acheter celle-ci.
 FAMILY_RANK_DEPUTY: Assistant
 FAMILY_RANK_HEAD: Tête
 FAMILY_RANK_KEEPER: Gardien
 FAMILY_RANK_MEMBER: Membre
 FAMILY_SHOUTMESSAGE_ALREADY_THAT_FACTION: La famille appartient déjà à cette faction.
-FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Family faction change is currently on cooldown.
-FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: You must wait 24 hours to rejoin the family.
-FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Tête de famille modifiée.
+FAMILY_SHOUTMESSAGE_CHANGE_FACTION_UNDER_COOLDOWN: Le changement de faction de la famille est en rechargement.
+FAMILY_SHOUTMESSAGE_CHANGE_FAMILY_ON_COOLDOWN: Tu dois attendre.
+FAMILY_SHOUTMESSAGE_CHANGED_HEAD: Tête de famille modifiéeh pour rejoindre une famille.
 FAMILY_SHOUTMESSAGE_FAMILY_CREATED: La famille {0} a été fondée
 FAMILY_SHOUTMESSAGE_HEAD_CHANGE_SEX: La tête de famille a changé son sexe.
 FAMILY_SHOUTMESSAGE_LEVEL_UP: La famille a atteint le niveau {0} !
 FAMILY_SHOUTMESSAGE_MEMBER_JOINED: '{0} a rejoint la famille !'
 FAMILY_SHOUTMESSAGE_SHOUT: '{0} > {1}'
-FAMILYARENA_INFO_ASK_ENTER: Do you want to enter the family arena? It will cost you {0} gold.
+FAMILYARENA_INFO_ASK_ENTER: Veux-tu entrer dans l'arène de famille? Ça te coûtera {0} or.
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_IN: "{0} s'est connecté."
 FRIEND_CHATMESSAGE_CHARACTER_LOGGED_OUT: '{0} est hors ligne.'
 FRIEND_DIALOG_DO_YOU_WANT_TO_ADD: Veux-tu devenir ami avec {0} ?
@@ -183,7 +183,7 @@ GAMEEVENT_SHOUTMESSAGE_WILL_FINISH_IN_A_MINUTE: '{0} finira dans une minute.'
 GROUP_CHATMESSAGE_DROP_ORDERED: '(Groupe) [{0}x {1}] pour : {2}'
 GROUP_CHATMESSAGE_DROP_SHARED: (Groupe) [{0}x {1}] pour tout le monde
 GROUP_CHATMESSAGE_REQUEST_REFUSED: '{0} a refusé ton invitation de groupe.'
-GROUP_DIALOG_ASK_SHARE_POINT: Do you want to set {0}'s point if return as yours?
+GROUP_DIALOG_ASK_SHARE_POINT: Veux-tu partager le point de retour de {0}?
 GROUP_DIALOG_INVITED_YOU: "{0} t'as invité en groupe."
 GROUP_INFO_ADMIN: Tu es le chef du groupe !
 GROUP_INFO_ALREADY_IN_GROUP: Tu es déjà dans un groupe !
@@ -193,12 +193,12 @@ GROUP_INFO_JOIN: Tu as rejoint le groupe de {0} !
 GROUP_INFO_LEFT: Tu as quitté le groupe.
 GROUP_INFO_NEW_LEADER: Tu es le nouveau chef du groupe !
 GROUP_INFO_REQUEST: Tu as invité {0} dans ton groupe.
-GROUP_INFO_SHARE_POINT_TO_MEMBERS: You have requested to share your point of return with your party members.
+GROUP_INFO_SHARE_POINT_TO_MEMBERS: Tu as demandé à partager aux membres du groupe ton point de retour.
 GROUP_SHOUTMESSAGE_CLOSED: Groupe dissous.
-GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} has changed the point of return.'
-GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} refused to share the point of return with party members.'
-GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: You have changed the same point of return for party members.
-GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: You refused to share point of return with party members.
+GROUP_SHOUTMESSAGE_SHARE_POINT_ACCEPTED: '{0} a changé le point de retour.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_DECLINED: '{0} a refusé de partager le point de retour avec les membres du groupe.'
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_ACCEPTED: Tu as partagé le point de retour avec les membres du groupe.
+GROUP_SHOUTMESSAGE_SHARE_POINT_YOU_DECLINED: Tu as refusé de partager le pont de retour avec les membres du groupe.
 GROUP_SHOUTMESSAGE_SHARING: 'Distribution des butins : tout le monde'
 GROUP_SHOUTMESSAGE_SHARING_BY_ORDER: "Distribution des butins : Dans l'ordre"
 GROUP_SHOUTMESSAGE_YOU_ARE_NOT_LEADER: Tu n'es pas le chef du groupe !
@@ -330,9 +330,9 @@ INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_ANGEL: Tu as été béni par le po
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_DEMON: Tu as été béni par le pouvoir de protection des démons !
 INTERACTION_SHOUTMESSAGE_GET_PROTECTION_POWER_NEUTRAL: Tu as perdu ton pouvoir de protection.
 INTERACTION_SHOUTMESSAGE_NEED_SP_UPGRADE_FOR_WINGS: Pour changer les ailes de ta carte de spécialiste, tu dois avoir une amélioration supérieur à +0.
-INTERACTION_SPEAKER_UNDER_COOLDOWN: Your speaker is under cooldown, one speaker every 30 seconds.
-INTERACTION_VESSEL_LIMIT_REACHED: Monsters from vessels limit reached on this map
-INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'Acquired: {1} x{0} + {2}'
+INTERACTION_SPEAKER_UNDER_COOLDOWN: Ton haut-parleur est en rechargement, 1 haut-parleur toutes les 30 secondes.
+INTERACTION_VESSEL_LIMIT_REACHED: La limite des monstres scellés sur cette carte a été atteinte.
+INVENTORY_CHATMESSAGE_GOLD_BONUS_ACQUIRED: 'a gagné: {1} x{0} + {2}'
 INVENTORY_CHATMESSAGE_X_ITEM_ACQUIRED: 'Obtenu: {1} x{0}'
 INVENTORY_DIALOG_ASK_SORT: Do you want to sort your items? It has one minute cooldown.
 INVENTORY_DIALOG_ASK_TO_DELETE: Es-tu sûr de vouloir supprimer cet objet ?
